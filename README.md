@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 #### 4️⃣ Ejecuta la aplicación
 ```bash
-streamlit run app_optimizado.py
+streamlit run app.py
 ```
 
 La aplicación se abrirá automáticamente en `http://localhost:8501`
