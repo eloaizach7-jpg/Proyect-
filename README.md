@@ -211,7 +211,6 @@ pip install -r requirements.txt
 - ✅ Labels dinámicas que se adaptan a unidades
 - ✅ Mejor rendimiento y navegación
 
-Ver [CAMBIOS_v2.1.md](CAMBIOS_v2.1.md) para detalles técnicos.
 
 ---
 
